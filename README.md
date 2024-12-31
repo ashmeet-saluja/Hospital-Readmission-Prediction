@@ -1,7 +1,3 @@
-# Hospital-Readmission-Prediction
-Here's a comprehensive `README.md` template for your GitHub repository that details the project on hospital readmission prediction:
-
----
 
 # **Hospital Readmission Prediction**
 
